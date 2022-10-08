@@ -1,6 +1,6 @@
 # Analysing grey seal movement tracks in the North Sea
 
-This is a repo for using MovingPandas to analyse seal movement and make a map for the #30DayMapChallenge "Movement" theme (hopefully)!
+This is a repo for using MovingPandas to analyse the movement of a seal and make a map for the #30DayMapChallenge "Movement" theme (hopefully)!
 
 ## The data used here is from Movebank:
 
