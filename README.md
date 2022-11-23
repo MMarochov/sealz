@@ -17,7 +17,7 @@ This is a repo for using ```MovingPandas``` to analyse the movement of a seal an
 
 ## Notebooks
 - The ```data_exploration.ipynb``` notebook is what I used to experiment with MovingPandas.
-- The ```gif_ims.ipynb``` is for plotting and saving out imagery to make into gifs/videos (```if_gif_ims_interrupted.ipynb``` was a quick fix for if gif_ims stopped running unexpectedyly).
+- The ```gif_ims.ipynb``` is for plotting and saving out imagery to make into gifs/videos (```if_gif_ims_interrupted.ipynb``` was a quick fix for if gif_ims stopped running unexpectedly).
 - The ```animation_creator.ipynb``` notebook is to make gifs or videos from a folder of images (i.e. what was created with ```gif_ims.ipynb```)
 
 ## The data used here is from Movebank:
